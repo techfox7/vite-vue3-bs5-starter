@@ -2,6 +2,18 @@
 
 This template should help get you started developing with Vue 3, Bootstrap 5 and Typescript in Vite.
 
+## Vite & Vue Plugins
+* [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages)
+* [vite-plugin-vue-layouts](https://github.com/JohnCampionJr/vite-plugin-vue-layouts)
+* [vite-plugin-components](https://github.com/antfu/vite-plugin-components)
+* [@intlify/vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n)
+* [vue-global-api](https://github.com/antfu/vue-global-api)
+* [vue-use](https://github.com/vueuse/vueuse) - Common Vue 3 Composition API
+
+## VSCode & ESLint optimization
+* [lokalise.i18n-ally](https://github.com/lokalise/i18n-ally)
+* eslint-plugin-prettier
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur). Make sure to enable `vetur.experimental.templateInterpolationService` in settings!
