@@ -10,6 +10,9 @@ import messages from '@intlify/vite-plugin-vue-i18n/messages'
 import './scss/custom.scss'
 import 'bootstrap-icons/font/bootstrap-icons.css'
 
+import '@popperjs/core'
+import 'bootstrap'
+
 import App from './App.vue'
 
 const routes = setupLayouts(generatedRoutes)
